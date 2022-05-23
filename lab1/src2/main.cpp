@@ -11,8 +11,8 @@
 
 int main(int argc, char* argv[]){
 
-	int M = 2300;
-	int N = 2300;
+	int M = 100;
+	int N = 100;
 	int MAX_STEPS = 10000;
 	double DMIN = -100.0;
 	double DMAX =  100.0;

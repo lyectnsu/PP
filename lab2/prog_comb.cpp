@@ -197,13 +197,10 @@ void findInverse(float* A, float* Av, int N, int M, int NSTEPS){
 		}
 		#pragma omp barrier
 
-
-
 		divideMatrixByScalar(AT, Ai*Aj, B, N, M); // B = AT / (Ai*Aj)
 		multiplyMatrices(B, A, BA, N, M, N); // BA = B * A
 		substractMatrices(I, BA, R, N, M);   // R = I - B*A
 
-	
 		for (int step = 1; step <= NSTEPS - 1; ++step){
 				multiplyMatrices(Rn, R, I, N, M, N);
 
