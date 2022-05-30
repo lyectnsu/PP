@@ -1,6 +1,9 @@
 #pragma once
 
 #include <cstdlib>
+#include <cmath>
+
+#include "settings.h"
 
 enum TaskStatus {
     NOT_EXECUTED,
@@ -34,10 +37,22 @@ Task** Task_createTaskArray(int size){
     for (int i = 0; i < size; ++i){
         task_arr[i] = Task_createTask();
     }
+    return task_arr;
+}
+
+void Task_freeTaskArray(Task** task_arr, int size){
+    for (int i = 0; i < size; ++i){
+        free(task_arr[i]);
+    }
+    free(task_arr);
 }
 
 void Task_setNewRepeat(Task* task, int rank, int iter_count, int n_procs){
-    task->repeat = abs(rank - (iter_count % n_procs));
+    task->repeat = TASK_QUANT_TIME * (1 + abs(rank - (iter_count % n_procs)));
+}
+
+int Task_getRepeat(Task* task){
+    return task->repeat;
 }
 
 TaskStatus Task_getStatus(Task* task){

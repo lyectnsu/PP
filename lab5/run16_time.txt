@@ -1,0 +1,1313 @@
+Iteration #1:
+	Disbalance: 5.31603 %
+	PROCESS WITH RANK #0
+		Execution time: 56.298297 s.
+		Tasks result:   2123.723450
+		Tasks done:     1714
+		Tasks sent:     0
+	PROCESS WITH RANK #1
+		Execution time: 56.622685 s.
+		Tasks result:   2240.574828
+		Tasks done:     1593
+		Tasks sent:     8
+	PROCESS WITH RANK #2
+		Execution time: 57.204571 s.
+		Tasks result:   624.545058
+		Tasks done:     1474
+		Tasks sent:     23
+	PROCESS WITH RANK #3
+		Execution time: 57.558062 s.
+		Tasks result:   578.096683
+		Tasks done:     1360
+		Tasks sent:     45
+	PROCESS WITH RANK #4
+		Execution time: 57.883835 s.
+		Tasks result:   1900.760154
+		Tasks done:     1239
+		Tasks sent:     75
+	PROCESS WITH RANK #5
+		Execution time: 58.400948 s.
+		Tasks result:   1498.608539
+		Tasks done:     1137
+		Tasks sent:     107
+	PROCESS WITH RANK #6
+		Execution time: 58.509899 s.
+		Tasks result:   140.137535
+		Tasks done:     1044
+		Tasks sent:     142
+	PROCESS WITH RANK #7
+		Execution time: 58.732000 s.
+		Tasks result:   569.225500
+		Tasks done:     958
+		Tasks sent:     180
+	PROCESS WITH RANK #8
+		Execution time: 58.907273 s.
+		Tasks result:   1601.874908
+		Tasks done:     896
+		Tasks sent:     212
+	PROCESS WITH RANK #9
+		Execution time: 59.038481 s.
+		Tasks result:   881.861376
+		Tasks done:     823
+		Tasks sent:     253
+	PROCESS WITH RANK #10
+		Execution time: 59.211888 s.
+		Tasks result:   -43.071347
+		Tasks done:     760
+		Tasks sent:     293
+	PROCESS WITH RANK #11
+		Execution time: 59.319688 s.
+		Tasks result:   639.556021
+		Tasks done:     703
+		Tasks sent:     331
+	PROCESS WITH RANK #12
+		Execution time: 59.308668 s.
+		Tasks result:   1242.535780
+		Tasks done:     650
+		Tasks sent:     370
+	PROCESS WITH RANK #13
+		Execution time: 59.396636 s.
+		Tasks result:   438.205549
+		Tasks done:     605
+		Tasks sent:     406
+	PROCESS WITH RANK #14
+		Execution time: 59.459162 s.
+		Tasks result:   -46.371791
+		Tasks done:     516
+		Tasks sent:     484
+	PROCESS WITH RANK #15
+		Execution time: 59.391203 s.
+		Tasks result:   676.953598
+		Tasks done:     528
+		Tasks sent:     472
+Iteration #2:
+	Disbalance: 5.72236 %
+	PROCESS WITH RANK #0
+		Execution time: 50.737573 s.
+		Tasks result:   2170.369663
+		Tasks done:     1542
+		Tasks sent:     9
+	PROCESS WITH RANK #1
+		Execution time: 50.294105 s.
+		Tasks result:   2072.633383
+		Tasks done:     1678
+		Tasks sent:     0
+	PROCESS WITH RANK #8
+		Execution time: 52.792202 s.
+		Tasks result:   522.117818
+		Tasks done:     896
+		Tasks sent:     220
+	PROCESS WITH RANK #2
+		Execution time: 50.894625 s.
+		Tasks result:   2168.358391
+		Tasks done:     1542
+		Tasks sent:     9
+	PROCESS WITH RANK #3
+		Execution time: 51.213167 s.
+		Tasks result:   557.279717
+		Tasks done:     1410
+		Tasks sent:     35
+	PROCESS WITH RANK #4
+		Execution time: 51.630303 s.
+		Tasks result:   502.849654
+		Tasks done:     1276
+		Tasks sent:     68
+	PROCESS WITH RANK #5
+		Execution time: 52.137288 s.
+		Tasks result:   1790.423633
+		Tasks done:     1161
+		Tasks sent:     104
+	PROCESS WITH RANK #6
+		Execution time: 52.366764 s.
+		Tasks result:   1398.170445
+		Tasks done:     1056
+		Tasks sent:     142
+	PROCESS WITH RANK #7
+		Execution time: 52.577518 s.
+		Tasks result:   93.746944
+		Tasks done:     961
+		Tasks sent:     184
+	PROCESS WITH RANK #9
+		Execution time: 52.940999 s.
+		Tasks result:   1473.618177
+		Tasks done:     817
+		Tasks sent:     263
+	PROCESS WITH RANK #10
+		Execution time: 53.124439 s.
+		Tasks result:   801.082150
+		Tasks done:     749
+		Tasks sent:     306
+	PROCESS WITH RANK #11
+		Execution time: 53.153613 s.
+		Tasks result:   -54.945150
+		Tasks done:     688
+		Tasks sent:     347
+	PROCESS WITH RANK #12
+		Execution time: 53.234195 s.
+		Tasks result:   572.942658
+		Tasks done:     633
+		Tasks sent:     388
+	PROCESS WITH RANK #13
+		Execution time: 53.236998 s.
+		Tasks result:   1127.361993
+		Tasks done:     586
+		Tasks sent:     425
+	PROCESS WITH RANK #14
+		Execution time: 53.318579 s.
+		Tasks result:   361.734180
+		Tasks done:     497
+		Tasks sent:     503
+	PROCESS WITH RANK #15
+		Execution time: 53.346803 s.
+		Tasks result:   -45.652848
+		Tasks done:     508
+		Tasks sent:     492
+	PROCESS WITH RANK #8
+		Execution time: 47.375004 s.
+		Tasks result:   110.063223
+		Tasks done:     911
+		Tasks sent:     214
+Iteration #3:
+	Disbalance: 6.51723 %
+	PROCESS WITH RANK #0
+		Execution time: 46.160945 s.
+		Tasks result:   572.675680
+		Tasks done:     1359
+		Tasks sent:     38
+	PROCESS WITH RANK #9
+		Execution time: 47.611451 s.
+		Tasks result:   497.893390
+		Tasks done:     823
+		Tasks sent:     264
+	PROCESS WITH RANK #1
+		Execution time: 45.654477 s.
+		Tasks result:   2197.668106
+		Tasks done:     1505
+		Tasks sent:     10
+	PROCESS WITH RANK #10
+		Execution time: 47.757133 s.
+		Tasks result:   1385.950287
+		Tasks done:     748
+		Tasks sent:     310
+	PROCESS WITH RANK #2
+		Execution time: 44.893398 s.
+		Tasks result:   2118.266496
+		Tasks done:     1656
+		Tasks sent:     0
+	PROCESS WITH RANK #11
+		Execution time: 47.819294 s.
+		Tasks result:   749.614906
+		Tasks done:     681
+		Tasks sent:     356
+	PROCESS WITH RANK #3
+		Execution time: 45.756890 s.
+		Tasks result:   2197.952435
+		Tasks done:     1504
+		Tasks sent:     10
+	PROCESS WITH RANK #12
+		Execution time: 47.902955 s.
+		Tasks result:   -46.528872
+		Tasks done:     623
+		Tasks sent:     399
+	PROCESS WITH RANK #4
+		Execution time: 46.113323 s.
+		Tasks result:   566.517005
+		Tasks done:     1351
+		Tasks sent:     40
+	PROCESS WITH RANK #13
+		Execution time: 47.908203 s.
+		Tasks result:   529.733898
+		Tasks done:     572
+		Tasks sent:     440
+	PROCESS WITH RANK #5
+		Execution time: 46.619004 s.
+		Tasks result:   508.724374
+		Tasks done:     1216
+		Tasks sent:     82
+	PROCESS WITH RANK #14
+		Execution time: 48.023181 s.
+		Tasks result:   941.739413
+		Tasks done:     482
+		Tasks sent:     518
+	PROCESS WITH RANK #6
+		Execution time: 46.885334 s.
+		Tasks result:   1753.985511
+		Tasks done:     1094
+		Tasks sent:     128
+	PROCESS WITH RANK #15
+		Execution time: 47.992219 s.
+		Tasks result:   356.639332
+		Tasks done:     490
+		Tasks sent:     510
+	PROCESS WITH RANK #7
+		Execution time: 47.078095 s.
+		Tasks result:   1351.666565
+		Tasks done:     985
+		Tasks sent:     176
+Iteration #4:
+	Disbalance: 6.72910 %
+	PROCESS WITH RANK #0
+		Execution time: 42.202598 s.
+		Tasks result:   480.808349
+		Tasks done:     1175
+		Tasks sent:     87
+	PROCESS WITH RANK #1
+		Execution time: 41.805941 s.
+		Tasks result:   542.203272
+		Tasks done:     1323
+		Tasks sent:     41
+	PROCESS WITH RANK #2
+		Execution time: 41.287776 s.
+		Tasks result:   2172.383090
+		Tasks done:     1483
+		Tasks sent:     11
+	PROCESS WITH RANK #3
+		Execution time: 40.547406 s.
+		Tasks result:   2101.479906
+		Tasks done:     1648
+		Tasks sent:     0
+	PROCESS WITH RANK #4
+		Execution time: 41.233940 s.
+		Tasks result:   2163.245460
+		Tasks done:     1474
+		Tasks sent:     12
+	PROCESS WITH RANK #5
+		Execution time: 41.817842 s.
+		Tasks result:   535.807914
+		Tasks done:     1313
+		Tasks sent:     43
+	PROCESS WITH RANK #6
+		Execution time: 42.195573 s.
+		Tasks result:   475.948283
+		Tasks done:     1168
+		Tasks sent:     89
+	PROCESS WITH RANK #7
+		Execution time: 42.543573 s.
+		Tasks result:   1686.997497
+		Tasks done:     1036
+		Tasks sent:     148
+	PROCESS WITH RANK #8
+		Execution time: 42.691832 s.
+		Tasks result:   1312.645306
+		Tasks done:     948
+		Tasks sent:     193
+	PROCESS WITH RANK #9
+		Execution time: 42.957708 s.
+		Tasks result:   86.123482
+		Tasks done:     846
+		Tasks sent:     251
+	PROCESS WITH RANK #10
+		Execution time: 43.153886 s.
+		Tasks result:   454.368931
+		Tasks done:     760
+		Tasks sent:     303
+	PROCESS WITH RANK #11
+		Execution time: 43.206469 s.
+		Tasks result:   1282.872970
+		Tasks done:     685
+		Tasks sent:     354
+	PROCESS WITH RANK #12
+		Execution time: 43.354804 s.
+		Tasks result:   684.419251
+		Tasks done:     622
+		Tasks sent:     401
+	PROCESS WITH RANK #13
+		Execution time: 43.395654 s.
+		Tasks result:   -51.417044
+		Tasks done:     567
+		Tasks sent:     445
+	PROCESS WITH RANK #14
+		Execution time: 43.472729 s.
+		Tasks result:   433.845726
+		Tasks done:     473
+		Tasks sent:     527
+	PROCESS WITH RANK #15
+		Execution time: 43.455789 s.
+		Tasks result:   935.877964
+		Tasks done:     479
+		Tasks sent:     521
+Iteration #5:
+	Disbalance: 7.16303 %
+	PROCESS WITH RANK #0
+		Execution time: 39.135807 s.
+		Tasks result:   1603.978731
+		Tasks done:     996
+		Tasks sent:     157
+	PROCESS WITH RANK #1
+		Execution time: 38.866535 s.
+		Tasks result:   410.123543
+		Tasks done:     1138
+		Tasks sent:     94
+	PROCESS WITH RANK #8
+	PROCESS WITH RANK #2
+		Execution time: 38.356334 s.
+		Tasks result:   476.695103
+		Tasks done:     1296
+		Tasks sent:     44
+	PROCESS WITH RANK #3
+		Execution time: 37.609216 s.
+		Tasks result:   2113.106468
+		Tasks done:     1469
+		Tasks sent:     12
+	PROCESS WITH RANK #4
+		Execution time: 37.051639 s.
+		Tasks result:   2051.591675
+		Tasks done:     1645
+		Tasks sent:     0
+	PROCESS WITH RANK #5
+		Execution time: 37.789217 s.
+		Tasks result:   2102.680502
+		Tasks done:     1461
+		Tasks sent:     13
+	PROCESS WITH RANK #6
+		Execution time: 38.320887 s.
+		Tasks result:   474.994349
+		Tasks done:     1290
+		Tasks sent:     45
+	PROCESS WITH RANK #7
+		Execution time: 38.868692 s.
+		Tasks result:   407.443840
+		Tasks done:     1132
+		Tasks sent:     95
+		Execution time: 39.072800 s.
+		Tasks result:   1628.861308
+		Tasks done:     1017
+		Tasks sent:     149
+	PROCESS WITH RANK #9
+		Execution time: 39.327946 s.
+		Tasks result:   1218.168524
+		Tasks done:     895
+		Tasks sent:     215
+	PROCESS WITH RANK #10
+		Execution time: 39.529835 s.
+		Tasks result:   36.751061
+		Tasks done:     794
+		Tasks sent:     278
+	PROCESS WITH RANK #11
+		Execution time: 39.690600 s.
+		Tasks result:   397.982454
+		Tasks done:     708
+		Tasks sent:     336
+	PROCESS WITH RANK #12
+		Execution time: 39.798763 s.
+		Tasks result:   1183.258720
+		Tasks done:     635
+		Tasks sent:     391
+	PROCESS WITH RANK #13
+		Execution time: 39.816425 s.
+		Tasks result:   620.984226
+		Tasks done:     573
+		Tasks sent:     440
+	PROCESS WITH RANK #14
+		Execution time: 39.910434 s.
+		Tasks result:   -58.625063
+		Tasks done:     474
+		Tasks sent:     526
+	PROCESS WITH RANK #15
+		Execution time: 39.894987 s.
+		Tasks result:   437.514612
+		Tasks done:     477
+		Tasks sent:     523
+Iteration #6:
+	PROCESS WITH RANK #8
+	Disbalance: 7.88891 %
+		Execution time: 36.030851 s.
+	PROCESS WITH RANK #0
+		Tasks result:   422.983874
+		Execution time: 36.778465 s.
+		Tasks done:     1135
+		Tasks result:   1158.875216
+		Tasks sent:     94
+		Tasks done:     838
+		Tasks sent:     239
+	PROCESS WITH RANK #1
+		Execution time: 36.560390 s.
+		Tasks result:   1572.801665
+		Tasks done:     963
+		Tasks sent:     167
+	PROCESS WITH RANK #2
+		Execution time: 36.228536 s.
+		Tasks result:   403.411598
+		Tasks done:     1112
+		Tasks sent:     100
+	PROCESS WITH RANK #3
+		Execution time: 35.693256 s.
+		Tasks result:   485.316069
+		Tasks done:     1280
+		Tasks sent:     47
+	PROCESS WITH RANK #4
+		Execution time: 34.969316 s.
+		Tasks result:   2127.856962
+		Tasks done:     1460
+		Tasks sent:     12
+	PROCESS WITH RANK #5
+		Execution time: 34.239921 s.
+		Tasks result:   2084.590508
+		Tasks done:     1650
+		Tasks sent:     0
+	PROCESS WITH RANK #6
+		Execution time: 34.927469 s.
+		Tasks result:   2125.811877
+		Tasks done:     1460
+		Tasks sent:     12
+	PROCESS WITH RANK #7
+		Execution time: 35.715167 s.
+		Tasks result:   479.845352
+		Tasks done:     1274
+		Tasks sent:     48
+	PROCESS WITH RANK #9
+		Execution time: 36.502201 s.
+		Tasks result:   1600.280429
+		Tasks done:     984
+		Tasks sent:     158
+	PROCESS WITH RANK #10
+		Execution time: 36.734881 s.
+		Tasks result:   1184.199146
+		Tasks done:     859
+		Tasks sent:     227
+	PROCESS WITH RANK #11
+		Execution time: 36.884182 s.
+		Tasks result:   21.896511
+		Tasks done:     753
+		Tasks sent:     298
+	PROCESS WITH RANK #12
+		Execution time: 37.001791 s.
+		Tasks result:   372.985201
+		Tasks done:     666
+		Tasks sent:     363
+	PROCESS WITH RANK #13
+		Execution time: 37.089227 s.
+		Tasks result:   1121.115909
+		Tasks done:     595
+		Tasks sent:     420
+	PROCESS WITH RANK #14
+		Execution time: 37.098070 s.
+		Tasks result:   532.898744
+		Tasks done:     485
+		Tasks sent:     515
+	PROCESS WITH RANK #15
+		Execution time: 37.172419 s.
+		Tasks result:   -60.109241
+		Tasks done:     486
+		Tasks sent:     514
+Iteration #7:
+	Disbalance: 8.24888 %
+	PROCESS WITH RANK #0
+		Execution time: 35.163900 s.
+		Tasks result:   21.349151
+		Tasks done:     706
+		Tasks sent:     323
+	PROCESS WITH RANK #1
+		Execution time: 35.047262 s.
+		Tasks result:   1148.318138
+		Tasks done:     812
+		Tasks sent:     249
+	PROCESS WITH RANK #2
+		Execution time: 34.909307 s.
+		Tasks result:   1566.230820
+		Tasks done:     942
+		Tasks sent:     174
+	PROCESS WITH RANK #3
+		Execution time: 34.417129 s.
+		Tasks result:   413.494334
+		Tasks done:     1094
+		Tasks sent:     106
+	PROCESS WITH RANK #4
+		Execution time: 33.977157 s.
+		Tasks result:   493.984706
+		Tasks done:     1266
+		Tasks sent:     50
+	PROCESS WITH RANK #5
+		Execution time: 33.427840 s.
+		Tasks result:   2146.681799
+		Tasks done:     1457
+		Tasks sent:     13
+	PROCESS WITH RANK #6
+		Execution time: 32.456122 s.
+		Tasks result:   2122.214163
+		Tasks done:     1664
+		Tasks sent:     0
+	PROCESS WITH RANK #7
+		Execution time: 33.294886 s.
+		Tasks result:   2149.240083
+		Tasks done:     1459
+		Tasks sent:     13
+	PROCESS WITH RANK #8
+		Execution time: 33.705882 s.
+		Tasks result:   521.117792
+		Tasks done:     1295
+		Tasks sent:     46
+	PROCESS WITH RANK #9
+		Execution time: 34.330293 s.
+		Tasks result:   431.441565
+		Tasks done:     1117
+		Tasks sent:     100
+	PROCESS WITH RANK #10
+		Execution time: 34.705105 s.
+		Tasks result:   1598.962855
+		Tasks done:     965
+		Tasks sent:     164
+	PROCESS WITH RANK #11
+		Execution time: 34.963831 s.
+		Tasks result:   1176.555466
+		Tasks done:     834
+		Tasks sent:     236
+	PROCESS WITH RANK #12
+		Execution time: 35.178750 s.
+		Tasks result:   27.524351
+		Tasks done:     727
+		Tasks sent:     309
+	PROCESS WITH RANK #13
+		Execution time: 35.242447 s.
+		Tasks result:   368.103973
+		Tasks done:     638
+		Tasks sent:     379
+	PROCESS WITH RANK #14
+		Execution time: 35.355740 s.
+		Tasks result:   986.778764
+		Tasks done:     514
+		Tasks sent:     487
+	PROCESS WITH RANK #15
+		Execution time: 35.374086 s.
+		Tasks result:   560.367751
+		Tasks done:     510
+		Tasks sent:     490
+Iteration #8:
+	Disbalance: 8.14693 %
+	PROCESS WITH RANK #0
+		Execution time: 34.409346 s.
+		Tasks result:   340.592011
+		Tasks done:     607
+		Tasks sent:     400
+	PROCESS WITH RANK #1
+		Execution time: 34.286397 s.
+		Tasks result:   5.629695
+		Tasks done:     692
+		Tasks sent:     330
+	PROCESS WITH RANK #2
+		Execution time: 34.200271 s.
+		Tasks result:   1121.009349
+		Tasks done:     800
+		Tasks sent:     255
+	PROCESS WITH RANK #3
+		Execution time: 33.941327 s.
+		Tasks result:   1535.241508
+		Tasks done:     931
+		Tasks sent:     179
+	PROCESS WITH RANK #4
+		Execution time: 33.532704 s.
+		Tasks result:   383.549736
+		Tasks done:     1081
+		Tasks sent:     112
+	PROCESS WITH RANK #5
+		Execution time: 33.126198 s.
+		Tasks result:   461.554498
+		Tasks done:     1257
+		Tasks sent:     54
+	PROCESS WITH RANK #6
+		Execution time: 32.368130 s.
+		Tasks result:   2114.541625
+		Tasks done:     1460
+		Tasks sent:     14
+	PROCESS WITH RANK #7
+		Execution time: 31.658761 s.
+		Tasks result:   2084.862519
+		Tasks done:     1669
+		Tasks sent:     0
+	PROCESS WITH RANK #8
+		Execution time: 32.203393 s.
+		Tasks result:   2143.324204
+		Tasks done:     1492
+		Tasks sent:     12
+	PROCESS WITH RANK #9
+		Execution time: 32.889895 s.
+		Tasks result:   489.049573
+		Tasks done:     1291
+		Tasks sent:     48
+	PROCESS WITH RANK #10
+		Execution time: 33.431462 s.
+		Tasks result:   404.466382
+		Tasks done:     1112
+		Tasks sent:     102
+	PROCESS WITH RANK #11
+		Execution time: 33.877061 s.
+		Tasks result:   1566.379182
+		Tasks done:     955
+		Tasks sent:     169
+	PROCESS WITH RANK #12
+		Execution time: 34.188184 s.
+		Tasks result:   1150.074727
+		Tasks done:     823
+		Tasks sent:     241
+	PROCESS WITH RANK #13
+		Execution time: 34.295367 s.
+		Tasks result:   10.133383
+		Tasks done:     713
+		Tasks sent:     314
+	PROCESS WITH RANK #14
+		Execution time: 34.466741 s.
+		Tasks result:   312.744458
+		Tasks done:     564
+		Tasks sent:     437
+	PROCESS WITH RANK #15
+		Execution time: 34.455593 s.
+		Tasks result:   1062.536144
+		Tasks done:     553
+		Tasks sent:     447
+Iteration #9:
+	PROCESS WITH RANK #8
+	Disbalance: 9.25654 %
+		Execution time: 31.303948 s.
+	PROCESS WITH RANK #0
+		Tasks result:   2110.758118
+		Execution time: 34.497196 s.
+		Tasks done:     1700
+		Tasks result:   1033.715091
+		Tasks sent:     0
+		Tasks done:     538
+		Tasks sent:     462
+	PROCESS WITH RANK #1
+		Execution time: 34.414439 s.
+		Tasks result:   340.039928
+		Tasks done:     606
+		Tasks sent:     398
+	PROCESS WITH RANK #2
+		Execution time: 34.383371 s.
+		Tasks result:   6.581706
+		Tasks done:     694
+		Tasks sent:     328
+	PROCESS WITH RANK #3
+		Execution time: 34.213324 s.
+		Tasks result:   1120.644191
+		Tasks done:     800
+		Tasks sent:     255
+	PROCESS WITH RANK #4
+		Execution time: 34.043636 s.
+		Tasks result:   1529.540126
+		Tasks done:     926
+		Tasks sent:     182
+	PROCESS WITH RANK #5
+		Execution time: 33.494701 s.
+		Tasks result:   377.796028
+		Tasks done:     1078
+		Tasks sent:     113
+	PROCESS WITH RANK #6
+		Execution time: 33.071808 s.
+		Tasks result:   463.951996
+		Tasks done:     1260
+		Tasks sent:     54
+	PROCESS WITH RANK #7
+		Execution time: 32.410785 s.
+		Tasks result:   2112.810963
+		Tasks done:     1459
+		Tasks sent:     15
+	PROCESS WITH RANK #9
+		Execution time: 32.223617 s.
+		Tasks result:   2138.701584
+		Tasks done:     1489
+		Tasks sent:     13
+	PROCESS WITH RANK #10
+		Execution time: 32.963589 s.
+		Tasks result:   488.157331
+		Tasks done:     1293
+		Tasks sent:     48
+	PROCESS WITH RANK #11
+		Execution time: 33.455428 s.
+		Tasks result:   403.583305
+		Tasks done:     1112
+		Tasks sent:     104
+	PROCESS WITH RANK #12
+		Execution time: 33.898426 s.
+		Tasks result:   1564.541477
+		Tasks done:     955
+		Tasks sent:     170
+	PROCESS WITH RANK #13
+		Execution time: 34.122866 s.
+		Tasks result:   1146.315618
+		Tasks done:     822
+		Tasks sent:     242
+	PROCESS WITH RANK #14
+		Execution time: 34.388127 s.
+		Tasks result:   -3.347307
+		Tasks done:     643
+		Tasks sent:     366
+	PROCESS WITH RANK #15
+		Execution time: 34.417066 s.
+		Tasks result:   351.898836
+		Tasks done:     625
+		Tasks sent:     381
+Iteration #10:
+	Disbalance: 8.41428 %
+	PROCESS WITH RANK #0
+		Execution time: 35.416658 s.
+		Tasks result:   543.886347
+		Tasks done:     495
+		Tasks sent:     505
+	PROCESS WITH RANK #1
+		Execution time: 35.363124 s.
+		Tasks result:   1056.225407
+		Tasks done:     551
+		Tasks sent:     452
+	PROCESS WITH RANK #2
+	PROCESS WITH RANK #8
+		Execution time: 35.322231 s.
+		Tasks result:   351.595835
+		Tasks done:     620
+		Tasks sent:     391
+		Execution time: 33.040195 s.
+	PROCESS WITH RANK #3
+		Execution time: 35.228816 s.
+		Tasks result:   16.631549
+		Tasks done:     706
+		Tasks sent:     321
+		Tasks result:   2178.877266
+	PROCESS WITH RANK #4
+		Execution time: 35.108912 s.
+		Tasks result:   1142.810452
+		Tasks done:     808
+		Tasks sent:     253
+		Tasks done:     1490
+	PROCESS WITH RANK #5
+		Execution time: 34.919972 s.
+		Tasks result:   1557.681829
+		Tasks done:     935
+		Tasks sent:     180
+		Tasks sent:     13
+	PROCESS WITH RANK #6
+		Execution time: 34.514280 s.
+		Tasks result:   409.373850
+		Tasks done:     1088
+		Tasks sent:     111
+	PROCESS WITH RANK #7
+		Execution time: 33.983666 s.
+		Tasks result:   495.064370
+		Tasks done:     1263
+		Tasks sent:     53
+	PROCESS WITH RANK #9
+		Execution time: 32.436603 s.
+		Tasks result:   2146.033387
+		Tasks done:     1691
+		Tasks sent:     0
+	PROCESS WITH RANK #10
+		Execution time: 32.971827 s.
+		Tasks result:   2178.295857
+		Tasks done:     1490
+		Tasks sent:     12
+	PROCESS WITH RANK #11
+		Execution time: 33.799139 s.
+		Tasks result:   522.218500
+		Tasks done:     1295
+		Tasks sent:     49
+	PROCESS WITH RANK #12
+		Execution time: 34.312218 s.
+		Tasks result:   434.254474
+		Tasks done:     1119
+		Tasks sent:     102
+	PROCESS WITH RANK #13
+		Execution time: 34.853009 s.
+		Tasks result:   1598.558413
+		Tasks done:     967
+		Tasks sent:     167
+	PROCESS WITH RANK #14
+		Execution time: 35.232361 s.
+		Tasks result:   1078.077501
+		Tasks done:     754
+		Tasks sent:     285
+	PROCESS WITH RANK #15
+		Execution time: 35.253023 s.
+		Tasks result:   22.780674
+		Tasks done:     728
+		Tasks sent:     305
+Iteration #11:
+	Disbalance: 8.65807 %
+	PROCESS WITH RANK #0
+		Execution time: 37.242939 s.
+		Tasks result:   -58.377699
+		Tasks done:     472
+		Tasks sent:     528
+	PROCESS WITH RANK #8
+	PROCESS WITH RANK #1
+		Execution time: 37.215115 s.
+		Tasks result:   568.910470
+		Tasks done:     520
+		Tasks sent:     482
+		Execution time: 35.565648 s.
+	PROCESS WITH RANK #2
+		Execution time: 37.158936 s.
+		Tasks result:   1095.832792
+		Tasks done:     578
+		Tasks sent:     431
+		Tasks result:   508.002621
+	PROCESS WITH RANK #3
+		Execution time: 37.130015 s.
+		Tasks result:   360.719519
+		Tasks done:     649
+		Tasks sent:     374
+		Tasks done:     1305
+	PROCESS WITH RANK #4
+		Execution time: 37.052483 s.
+		Tasks result:   14.541645
+		Tasks done:     730
+		Tasks sent:     312
+		Tasks sent:     45
+	PROCESS WITH RANK #5
+		Execution time: 36.882206 s.
+		Tasks result:   1149.318118
+		Tasks done:     831
+		Tasks sent:     242
+	PROCESS WITH RANK #6
+		Execution time: 36.658788 s.
+		Tasks result:   1562.747690
+		Tasks done:     957
+		Tasks sent:     173
+	PROCESS WITH RANK #7
+		Execution time: 36.346943 s.
+		Tasks result:   402.556690
+		Tasks done:     1105
+		Tasks sent:     106
+	PROCESS WITH RANK #9
+		Execution time: 34.967510 s.
+		Tasks result:   2154.749335
+		Tasks done:     1487
+		Tasks sent:     12
+	PROCESS WITH RANK #10
+		Execution time: 34.018419 s.
+		Tasks result:   2115.138965
+		Tasks done:     1680
+		Tasks sent:     0
+	PROCESS WITH RANK #11
+		Execution time: 34.937074 s.
+		Tasks result:   2155.971777
+		Tasks done:     1487
+		Tasks sent:     12
+	PROCESS WITH RANK #12
+		Execution time: 35.736370 s.
+		Tasks result:   508.002621
+		Tasks done:     1305
+		Tasks sent:     45
+	PROCESS WITH RANK #13
+		Execution time: 36.152058 s.
+		Tasks result:   427.226856
+		Tasks done:     1135
+		Tasks sent:     98
+	PROCESS WITH RANK #14
+		Execution time: 36.809694 s.
+		Tasks result:   1485.421120
+		Tasks done:     898
+		Tasks sent:     199
+	PROCESS WITH RANK #15
+		Execution time: 36.831340 s.
+		Tasks result:   1183.997301
+		Tasks done:     861
+		Tasks sent:     225
+Iteration #12:
+	Disbalance: 7.10722 %
+	PROCESS WITH RANK #0
+		Execution time: 40.002802 s.
+		Tasks result:   424.673512
+		Tasks done:     463
+		Tasks sent:     537
+	PROCESS WITH RANK #8
+	PROCESS WITH RANK #1
+		Execution time: 39.963422 s.
+		Tasks result:   -60.501067
+		Tasks done:     506
+		Tasks sent:     496
+		Execution time: 38.834326 s.
+	PROCESS WITH RANK #2
+		Execution time: 39.934016 s.
+		Tasks result:   607.434465
+		Tasks done:     557
+		Tasks sent:     451
+		Tasks result:   431.353476
+	PROCESS WITH RANK #3
+		Execution time: 39.896260 s.
+		Tasks result:   1161.606208
+		Tasks done:     618
+		Tasks sent:     401
+		Tasks done:     1162
+	PROCESS WITH RANK #4
+		Execution time: 39.826872 s.
+		Tasks result:   385.341320
+		Tasks done:     685
+		Tasks sent:     351
+		Tasks sent:     92
+	PROCESS WITH RANK #5
+		Execution time: 39.711977 s.
+		Tasks result:   29.828276
+		Tasks done:     769
+		Tasks sent:     291
+	PROCESS WITH RANK #6
+		Execution time: 39.510343 s.
+		Tasks result:   1192.375568
+		Tasks done:     871
+		Tasks sent:     228
+	PROCESS WITH RANK #7
+		Execution time: 39.263616 s.
+		Tasks result:   1599.064628
+		Tasks done:     990
+		Tasks sent:     160
+	PROCESS WITH RANK #9
+		Execution time: 38.322715 s.
+		Tasks result:   498.061245
+		Tasks done:     1319
+		Tasks sent:     43
+	PROCESS WITH RANK #10
+		Execution time: 37.714963 s.
+		Tasks result:   2133.493797
+		Tasks done:     1491
+		Tasks sent:     11
+	PROCESS WITH RANK #11
+		Execution time: 37.159716 s.
+		Tasks result:   2072.973459
+		Tasks done:     1673
+		Tasks sent:     0
+	PROCESS WITH RANK #12
+		Execution time: 37.691337 s.
+		Tasks result:   2134.023047
+		Tasks done:     1491
+		Tasks sent:     11
+	PROCESS WITH RANK #13
+		Execution time: 38.301070 s.
+		Tasks result:   498.061245
+		Tasks done:     1319
+		Tasks sent:     43
+	PROCESS WITH RANK #14
+		Execution time: 39.113934 s.
+		Tasks result:   360.950554
+		Tasks done:     1066
+		Tasks sent:     120
+	PROCESS WITH RANK #15
+		Execution time: 39.203951 s.
+		Tasks result:   1636.770321
+		Tasks done:     1020
+		Tasks sent:     147
+Iteration #13:
+	Disbalance: 6.85203 %
+	PROCESS WITH RANK #0
+		Execution time: 43.651560 s.
+		Tasks result:   910.478353
+		Tasks done:     466
+		Tasks sent:     534
+	PROCESS WITH RANK #8
+	PROCESS WITH RANK #1
+		Execution time: 43.617182 s.
+		Tasks result:   465.270001
+		Tasks done:     505
+		Tasks sent:     497
+		Execution time: 42.679696 s.
+	PROCESS WITH RANK #2
+		Execution time: 43.619955 s.
+		Tasks result:   -53.725432
+		Tasks done:     552
+		Tasks sent:     456
+		Tasks result:   1725.789447
+	PROCESS WITH RANK #3
+		Execution time: 43.575448 s.
+		Tasks result:   667.932628
+		Tasks done:     606
+		Tasks sent:     411
+		Tasks done:     1066
+	PROCESS WITH RANK #4
+		Execution time: 43.473356 s.
+		Tasks result:   1251.296944
+		Tasks done:     665
+		Tasks sent:     367
+		Tasks sent:     137
+	PROCESS WITH RANK #5
+		Execution time: 43.397549 s.
+		Tasks result:   438.796342
+		Tasks done:     738
+		Tasks sent:     316
+	PROCESS WITH RANK #6
+		Execution time: 43.183451 s.
+		Tasks result:   73.375585
+		Tasks done:     824
+		Tasks sent:     261
+	PROCESS WITH RANK #7
+		Execution time: 43.034724 s.
+		Tasks result:   1281.743413
+		Tasks done:     923
+		Tasks sent:     206
+	PROCESS WITH RANK #9
+		Execution time: 42.365719 s.
+		Tasks result:   496.653249
+		Tasks done:     1197
+		Tasks sent:     80
+	PROCESS WITH RANK #10
+		Execution time: 41.912861 s.
+		Tasks result:   559.786138
+		Tasks done:     1343
+		Tasks sent:     40
+	PROCESS WITH RANK #11
+		Execution time: 41.377261 s.
+		Tasks result:   2190.008237
+		Tasks done:     1503
+		Tasks sent:     10
+	PROCESS WITH RANK #12
+		Execution time: 40.660540 s.
+		Tasks result:   2117.880459
+		Tasks done:     1667
+		Tasks sent:     0
+	PROCESS WITH RANK #13
+		Execution time: 41.425323 s.
+		Tasks result:   2190.863293
+		Tasks done:     1503
+		Tasks sent:     10
+	PROCESS WITH RANK #14
+		Execution time: 42.361225 s.
+		Tasks result:   484.319633
+		Tasks done:     1246
+		Tasks sent:     56
+	PROCESS WITH RANK #15
+		Execution time: 42.404656 s.
+		Tasks result:   497.142069
+		Tasks done:     1196
+		Tasks sent:     80
+Iteration #14:
+	PROCESS WITH RANK #8
+	Disbalance: 6.17114 %
+		Execution time: 47.410098 s.
+	PROCESS WITH RANK #0
+		Tasks result:   1382.378062
+		Execution time: 48.251797 s.
+		Tasks done:     1014
+		Tasks result:   347.905307
+		Tasks sent:     165
+		Tasks done:     478
+		Tasks sent:     522
+	PROCESS WITH RANK #1
+		Execution time: 48.216319 s.
+		Tasks result:   1003.763386
+		Tasks done:     515
+		Tasks sent:     487
+	PROCESS WITH RANK #2
+		Execution time: 48.184864 s.
+		Tasks result:   512.935805
+		Tasks done:     558
+		Tasks sent:     449
+	PROCESS WITH RANK #3
+		Execution time: 48.131602 s.
+		Tasks result:   -52.798561
+		Tasks done:     608
+		Tasks sent:     409
+	PROCESS WITH RANK #4
+		Execution time: 48.099950 s.
+		Tasks result:   725.139326
+		Tasks done:     661
+		Tasks sent:     368
+	PROCESS WITH RANK #5
+		Execution time: 47.977457 s.
+		Tasks result:   1347.887402
+		Tasks done:     725
+		Tasks sent:     324
+	PROCESS WITH RANK #6
+		Execution time: 47.828696 s.
+		Tasks result:   478.007996
+		Tasks done:     801
+		Tasks sent:     275
+	PROCESS WITH RANK #7
+		Execution time: 47.780354 s.
+		Tasks result:   96.550023
+		Tasks done:     888
+		Tasks sent:     226
+	PROCESS WITH RANK #9
+		Execution time: 47.099985 s.
+		Tasks result:   1787.270313
+		Tasks done:     1123
+		Tasks sent:     117
+	PROCESS WITH RANK #10
+		Execution time: 46.803772 s.
+		Tasks result:   527.124715
+		Tasks done:     1246
+		Tasks sent:     72
+	PROCESS WITH RANK #11
+		Execution time: 46.350315 s.
+		Tasks result:   583.739422
+		Tasks done:     1380
+		Tasks sent:     32
+	PROCESS WITH RANK #12
+		Execution time: 45.814170 s.
+		Tasks result:   2215.404322
+		Tasks done:     1524
+		Tasks sent:     9
+	PROCESS WITH RANK #13
+		Execution time: 45.274113 s.
+		Tasks result:   2132.127755
+		Tasks done:     1673
+		Tasks sent:     0
+	PROCESS WITH RANK #14
+		Execution time: 46.130022 s.
+		Tasks result:   2119.407163
+		Tasks done:     1426
+		Tasks sent:     15
+	PROCESS WITH RANK #15
+		Execution time: 46.313686 s.
+		Tasks result:   585.719314
+		Tasks done:     1380
+		Tasks sent:     32
+Iteration #15:
+	Disbalance: 5.17619 %
+	PROCESS WITH RANK #0
+		Execution time: 53.716709 s.
+		Tasks result:   -44.574434
+		Tasks done:     496
+		Tasks sent:     504
+	PROCESS WITH RANK #8
+	PROCESS WITH RANK #1
+		Execution time: 53.620302 s.
+		Tasks result:   384.845176
+		Tasks done:     531
+		Tasks sent:     471
+		Execution time: 52.968168 s.
+	PROCESS WITH RANK #2
+		Execution time: 53.663429 s.
+		Tasks result:   1108.909990
+		Tasks done:     573
+		Tasks sent:     433
+		Tasks result:   110.732165
+	PROCESS WITH RANK #3
+		Execution time: 53.653819 s.
+		Tasks result:   561.746819
+		Tasks done:     620
+		Tasks sent:     395
+	PROCESS WITH RANK #4
+		Execution time: 53.564878 s.
+		Tasks result:   -60.004999
+		Tasks done:     669
+		Tasks sent:     358
+	PROCESS WITH RANK #5
+		Execution time: 53.438081 s.
+		Tasks result:   780.555919
+		Tasks done:     728
+		Tasks sent:     317
+		Tasks done:     989
+	PROCESS WITH RANK #6
+		Execution time: 53.320673 s.
+		Tasks result:   1445.692868
+		Tasks done:     798
+		Tasks sent:     273
+		Tasks sent:     175
+	PROCESS WITH RANK #7
+		Execution time: 53.175746 s.
+		Tasks result:   506.210266
+		Tasks done:     874
+		Tasks sent:     230
+	PROCESS WITH RANK #9
+		Execution time: 52.787807 s.
+		Tasks result:   1429.370548
+		Tasks done:     1086
+		Tasks sent:     132
+	PROCESS WITH RANK #10
+		Execution time: 52.427224 s.
+		Tasks result:   1824.700065
+		Tasks done:     1190
+		Tasks sent:     94
+	PROCESS WITH RANK #11
+		Execution time: 52.122006 s.
+		Tasks result:   521.620232
+		Tasks done:     1307
+		Tasks sent:     57
+	PROCESS WITH RANK #12
+		Execution time: 51.750577 s.
+		Tasks result:   569.498523
+		Tasks done:     1429
+		Tasks sent:     28
+	PROCESS WITH RANK #13
+		Execution time: 51.193168 s.
+		Tasks result:   2187.137846
+		Tasks done:     1558
+		Tasks sent:     5
+	PROCESS WITH RANK #14
+		Execution time: 50.936230 s.
+		Tasks result:   1998.279094
+		Tasks done:     1593
+		Tasks sent:     0
+	PROCESS WITH RANK #15
+		Execution time: 51.189191 s.
+		Tasks result:   2187.370730
+		Tasks done:     1559
+		Tasks sent:     5
+Iteration #16:
+	Disbalance: 5.62943 %
+	PROCESS WITH RANK #0
+		Execution time: 60.146756 s.
+		Tasks result:   666.696725
+		Tasks done:     520
+		Tasks sent:     480
+	PROCESS WITH RANK #1
+		Execution time: 60.042726 s.
+		Tasks result:   -47.042814
+		Tasks done:     554
+		Tasks sent:     448
+	PROCESS WITH RANK #2
+		Execution time: 60.027415 s.
+		Tasks result:   432.915899
+		Tasks done:     594
+		Tasks sent:     412
+	PROCESS WITH RANK #8
+		Execution time: 59.325839 s.
+		Tasks result:   591.773226
+		Tasks done:     984
+		Tasks sent:     168
+	PROCESS WITH RANK #3
+		Execution time: 59.958669 s.
+		Tasks result:   1231.116226
+		Tasks done:     639
+		Tasks sent:     375
+	PROCESS WITH RANK #9
+		Execution time: 59.084001 s.
+		Tasks result:   156.863492
+		Tasks done:     1070
+		Tasks sent:     131
+	PROCESS WITH RANK #4
+		Execution time: 59.927998 s.
+		Tasks result:   625.932308
+		Tasks done:     686
+		Tasks sent:     339
+	PROCESS WITH RANK #10
+		Execution time: 59.020594 s.
+		Tasks result:   1536.351029
+		Tasks done:     1165
+		Tasks sent:     96
+	PROCESS WITH RANK #5
+		Execution time: 59.869170 s.
+		Tasks result:   -48.433540
+		Tasks done:     742
+		Tasks sent:     302
+	PROCESS WITH RANK #11
+		Execution time: 58.579611 s.
+		Tasks result:   1937.360818
+		Tasks done:     1267
+		Tasks sent:     65
+	PROCESS WITH RANK #6
+		Execution time: 59.733898 s.
+		Tasks result:   868.639651
+		Tasks done:     806
+		Tasks sent:     261
+	PROCESS WITH RANK #12
+		Execution time: 58.229673 s.
+		Tasks result:   589.271948
+		Tasks done:     1374
+		Tasks sent:     39
+	PROCESS WITH RANK #7
+		Execution time: 59.575069 s.
+		Tasks result:   1579.275072
+		Tasks done:     877
+		Tasks sent:     221
+	PROCESS WITH RANK #13
+		Execution time: 57.707917 s.
+		Tasks result:   638.311904
+		Tasks done:     1488
+		Tasks sent:     18
+Total time: 704.47480 s.
+	PROCESS WITH RANK #14
+		Execution time: 57.766776 s.
+		Tasks result:   2168.558645
+		Tasks done:     1509
+		Tasks sent:     10
+	PROCESS WITH RANK #15
+		Execution time: 56.760837 s.
+		Tasks result:   2139.625252
+		Tasks done:     1725
+		Tasks sent:     0

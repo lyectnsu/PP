@@ -1,4 +1,5 @@
 #pragma once
 
-#define TASKS_PER_PROC 100
-#define TOTAL_ITERATIONS 5
+#define TASKS_PER_PROC 1000
+#define TOTAL_ITERATIONS 10
+#define TASK_QUANT_TIME 250000
